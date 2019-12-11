@@ -136,7 +136,7 @@ print(len(msj13))        # longitud=7
 #     012345678901234
 msj4="MENSAJE CATORCE"
 
-# impresion
+# impresión
 print(len(msj4))        # longitud=15
 
 # ejercicio 15:
