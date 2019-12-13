@@ -12,7 +12,7 @@ print("fin del 1er ejercicio")
 msj="SOLOS TU Y YO"
 #IMPRIMIR LA OPERACION BUSQUEDA
 print(msj.find("TU"))  #6
-print("fin del 2do ejercicio")
+print("fin del 2do ejercicio ")
 
 # ejercicio3:
 # pedir variables
