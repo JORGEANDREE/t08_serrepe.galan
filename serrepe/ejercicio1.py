@@ -5,7 +5,7 @@
 #    012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678
 msj="Al cerrar las persianas, el viento comenzó a soplar con más fuerza y escuchamos un ruido muy fuerte"
 #pedir la letra:
-a=msj[6]  # imprimir la letra r
+a=msj[6]  # imprimir la letra  r
 print(a)
 
 # ejemplo 2:
